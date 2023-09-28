@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Dominic
+I'm a Spatial Data Science master's student at the University of Southern California. 
+
+My main interests are:
+
+-Automating and optimizing ETL workflows for spatial data management
+-Creating and maintaining databases
+-Using tech and AI for good
 
 <!--
 **dborrell123/dborrell123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
